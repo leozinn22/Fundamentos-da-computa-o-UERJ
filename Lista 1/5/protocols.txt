@@ -1,0 +1,3 @@
+ Crie um  algoritmo  que  imprima  o  peso total que  será  carregado  por um  caminhão. 
+Sabe-se que este caminhão carrega 25 caixas. O peso de cada caixa deve ser informado 
+pelo usuário
