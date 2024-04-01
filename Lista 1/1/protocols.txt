@@ -1,0 +1,8 @@
+DADOS
+IDADE,SEXO,SALARIO
+
+PROBLEMA
+media salarial dos homens e mulheres
+maior salario encontrado entre as pessoas abaxio de 30 anos
+
+fazer um loop com as informações, deixar as variaveis iniciais se atualizando e calcular o final
