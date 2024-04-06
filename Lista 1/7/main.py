@@ -4,7 +4,7 @@
 # mensagem para o usuário informando que a soma não será realizada.
 numeroA = int(input("Valor número A "))
 numeroB = int(input("Valor número B "))
-if(numeroA<numeroB):
+if(numeroA>numeroB):
     print("A conta não será realizada")
     exit()
 intervaloNumero = range(numeroA,numeroB)
